@@ -1,0 +1,20 @@
+.profil{
+    width: 400px;
+    height: auto;
+    border-radius: 40%;
+}
+.hero{
+    background-image: url(./images/ciel\ image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.MaDescription{
+    font-size: 1.75rem;
+    font-weight: 300;
+}
+li{
+    font-size: 1.5rem;
+    list-style-type: none;
+}
+
